@@ -1,0 +1,98 @@
+Year 1
+Core Modules
+
+General Studies
+Algebra [60 hours]
+This module provides learners with the basic mathematical principles and tools necessary to build their engineering foundation. It will enable them to apply mathematical methods, tools and notations proficiently in the analysis and solution of engineering problems. Topics covered include mathematical functions (polynomials, exponential, logarithms, step functions and trigonometry), commonly used in engineering complex numbers, determinants, matrices and vectors.
+
+Calculus [60 hours]
+This foundation module provides learners with the essential knowledge in calculus. it helps learners in building skills for solving engineering problems encountered in their course of study. Topics include differentiation and integration of commonly used functions in engineering applications.
+
+Effective Communication Skills [30 hours]
+Communicating well is a vital life skill, benefitting all aspects of our lives from professional life to social gatherings. It is thus important to be proficient in both written and oral communication. it will enable learners to communicate effectively in different settings and on different collaborative platforms. There will be opportunities to practise and deliver various types of presentations, to learn to competently handle questions, and to effectively incorporate verbal and non-verbal elements when speaking. Learners will also acquire media and information literacy and be able to produce clearly written and well-structured reports and proposals, following standard citation and referencing guidelines.
+
+Electrical Principles [60 hours]
+it covers electrical fundamentals and their applications in electrical and electronic circuits. Topics covered include principles of electricity, power sources, resistive, capacitive and inductive circuits. Learners will need this knowledge to analyze, interpret and solve engineering problems.
+
+Engineering Drawing & Modelling [60 hours]
+it provides learners with the knowledge and skills to model the engineering parts and interpret drawings that are derived from the 3D models. Topics covered include orthographic projection, sectional views, assembly drawing, geometric dimensioning and tolerancing. it will provide learners with the necessary skills in communicating ideas and concepts through engineering drawings, which is one of the necessary and critical skills needed in the design process.
+
+Engineering Exploration Project [30 hours]
+it aims to develop learners’ innovative and enterprising skills while developing creative and technically robust solutions to real-world challenges. Learners will be able to effectively relate design thinking in the process of exploring innovative and enterprising solutions addressing the real needs that will bring about positive social change.
+
+Note: The project will be contextualised to the Aerospace/Computer/Electronics (ACE) Engineering Track and Aerospace/Mechanical/Biomedical (AMB) Engineering Track respectively.
+
+Fundamentals of Innovation and Enterprise [30 hours]
+Learners will develop attributes that are pervasive and synonymous with being innovative and enterprising for career and life. Through it learners will develop positive practices when working with data, propose ideas using user-centric approaches and design processes, determine and locate resources, and leverage collaborative practices to formulate solutions.
+
+Fundamentals of Mechanics [60 hrs]
+it provides learners with the fundamentals of engineering mechanics.  Topics covered include Newton laws, statics of rigid bodies, moment of inertia and bending moments. Fundamentals in dynamics that include kinematics and kinetics of particles will also covered in it. Learners will acquire fundamental engineering competence to understand and perform engineering-related activities related to statics and dynamics.
+
+Introduction to Engineering [60 hours]
+it introduces learners to different engineering disciplines by focusing on the application of relevant core engineering disciplines. Topics covered include roles and responsibilities of an engineer, ethics, and sustainability.  Learners will engage in the practice of engineering through the process of conceiving, designing, and implementing solutions to engineering problems, individually and in teams.  Through this, learners will also be able to hone their creative thinking and problem-solving skills, build synergistic teamwork and enhance their communication skills.
+
+Materials Technology [60 hours]
+it covers the important properties and applications of engineering materials, including ferrous and non-ferrous metals, polymers, composites, and ceramics.  Learners are also exposed to various material properties tests and characterization, material processing methods and different material failure modes. it serves as a foundation to enable learners to select appropriate materials for specific engineering applications.
+
+Programming [60 hours]
+The practice-oriented module introduces learners to software development methodology. The learners will learn about problem-analysis, problem-solving techniques and develop essential programming skills. The learners will be able to create flowcharts, develop algorithms, write structured programs, test and debug programs.
+
+Thermofluids [60 hours]
+it introduces the concepts of heat, fundamentals of thermodynamics, and fluid mechanics. Topics covered include temperature, heat capacities, latent heat, heat transfer and the ideal gas law, first laws of thermodynamics, the properties of fluids, the concepts and basic equations of fluid statics, and fluid flow. it will enable learners to utilize their knowledge to analyse and solve problems relating to heat, heat transfer, ideal gases, fluid statics and fluids in motion.
+
+Workplace Digital Skills [30 hours]
+it enables learners to use word processing software to create, modify and style document/report effectively and efficiently. Learners will use spreadsheets to manage, organise and model data as well as to perform analysis and report generation. Creation of customised, dynamic and multimedia-style presentations using software tools will also be covered. Through hands-on practices, learners will gain these skills and apply them in project work in preparation for the digital workplace.
+
+Year 2
+Core Modules
+General Studies
+Analogue & Digital Electronics [60 hours]
+it covers the structures and characteristics of various electronic devices such as rectifier diodes, special-purpose diodes, and bipolar junction transistors. ﻿ Students will learn the basic operating principles of these electronics devices and where they are commonly used.
+
+Automatic Control [60 hours]
+it aims to equip students with knowledge on pneumatics, electrical control devices, sensors, I/O interfacing and programmable logic controller (PLC), GRAFCET and logic program development. The module introduces the fundamental concepts of automatic control system, the methodology of implementing combinational and sequential logic control. Students will acquire skills in design, development and application of ladder logic program, GRAFCET and function blocks which are widely used in the industry to control the automation equipment or system.
+
+Device Interfacing & Programming [60 hours]
+it introduces students to sensors and actuators, which are commonly used in mechatronic systems, and the interfacing techniques used for connecting them to a microprocessor/computer. Hands-on applications of these devices will also be provided. Upon completion of the module, students will be able to demonstrate the techniques and skill used to integrate devices in realising a mechatronic system.
+
+Differential Equations & Series [60 hrs]
+it provides learners with the knowledge of solving ordinary differential equations and representing periodic functions in terms of Fourier series. The learners will be able to select and use appropriate models and techniques to solve engineering related problems. The main topics covered include first-order and second-order homogenous differential equations, Fourier series and its application.
+
+Electrical Machines [60 hours]
+it provides students with essential knowledge of direct-current (DC) and alternate-current (AC) electrical machines, machine characteristics, performance features, control and protection circuits. Major topics cover electro-mechanical principles, rotating machines, transformer, DC motor and AC motors. At the end of the module, students will be able to demonstrate a sound knowledge of various types of electrical machines and apply them to solve real-life problems pertaining to motors and motor circuitry.
+
+Mechanical Design [60 hours]
+it covers the strength of materials and its application to machine elements and engineering design. It provides students with fundamental knowledge in engineering design. This includes stress and strain analysis, limits and fits, sizing of drive elements such as shaft, gear, flexible drive and leadscrew, and the application of bearings. Design exercises are included to provide the students with hands-on experience in design. At the end of it, they will be able to effectively contribute to the design of mechanisms.
+
+Microcontroller Applications [60 hours]
+it introduces the application design and development process for an embedded microcontroller system. Students will learn to develop microcontroller application programmes. Concepts covered in microcontroller programming are I/O programming, peripherals programming and interrupt handlings. Case studies will be used to illustrate the fundamental building blocks of a microcontroller system and how they are inter-related. Upon completion of it, students will be able to demonstrate the use of various basic programming skills and knowledge of an embedded microcontroller system.
+
+Probability & Statistics [60 hrs]
+it provides learners with the essential concepts of probability and statistics. The learners will be able to apply probability theory and statistics to analyse real life problems. The topics covered include the probability concepts, probability distributions (Binomial, Poisson and Normal), sampling distributions, estimating and testing of population mean, linear correlation and regression.
+
+Quality Assurance [60 hours]
+it aims to introduce the fundamentals of quality assurance concepts and systems. It provides students an understanding of quality system in the manufacturing environment. It encompasses sampling plans and control charts for monitoring of batch production. In addition, the module also provides students with fundamental concepts in dimensional measurement. They will learn about some of the specialised instruments and techniques through hands-on practice. By the end of the module, students will gain a firm understanding of good measurement practices.
+
+Robotic Systems & Peripherals [60 hours]
+it is designed to provide students with a sound knowledge of robotics technology. The module covers robot classification and anatomy, robot kinematics, control concept, robotic communication and programming, system peripherals, machine vision system and robotic safety. Upon completion of it, students will gain a basic understanding of the key aspects of robotics.
+
+Semestral Project 3 
+
+it aims to develop students’ innovative and enterprising mindset by providing them with experiences in self-initiated learning in innovation and enterprise. Students will learn to recognise and relate the importance of innovation and enterprise through studying real-world examples around them, as well as a series of experiential exploration and research into varied technologies, products and industries.
+
+Semestral Project 4
+
+it enables students to develop their skills in microcontroller programming and applications in a mechatronics environment. Students will learn to interface various input and output devices to the microcontroller through a series of practical exercises. Using the C language that they have learnt earlier, students will develop code to drive external devices such as motors, LEDs and sensors. Effective use of technology to troubleshoot and innovate is emphasised throughout it. In all, students will have gained an overview of a mechatronics system and the design/development process involved.
+
+Year 3
+Automation Systems Design [60 hours]
+it aims to provide essential concepts and principles to support the design process of automation systems. The module also aims to synthesize diverse engineering fundamentals including the use of robotic work cell and various types of layout in such systems. Various aspects of manufacturing systems/technologies and an overview of automation assembly systems will be covered in it. The lectures are complemented with practical design sessions using 3D computer-assisted drafting and design system. Upon successfully completing it, students should be able to integrate the knowledge acquired from it and other related engineering knowledge to perform design of automation systems.
+
+Communication & Personal Branding [30 hours]
+In today’s competitive environment, a strong personal brand sets one apart from others. In it, learners will develop techniques to impress and persuade others to accept their ideas. They will also learn how to communicate effectively over email. To support their job search, learners will use digital portfolios to showcase their abilities, as well as gain the knowledge and skills to promote their capabilities in their cover letters and resumes. They will also acquire skills to project themselves positively and for performing well at interviews.
+
+Motion Control & Drives [60 hours]
+it equips students with practical knowledge of motion control systems and the associated power electronics knowledge for drive applications. These drives are the prime movers of most mechatronics products and automation systems of today. At the end of the module, students will be able to apply the knowledge gained to real-life engineering projects.
+
+Semestral Project [60 hours]
+it develops students’ abilities in applying techniques, skills and knowledge learnt for new product design, development and product marketing. Students are expected to present their solutions with a complete business plan, which includes, but is not restricted to, information gathering, market analysis, manufacturability, product usability, robustness of design and cost analysis. Upon completion of the module, students will be able to demonstrate an understanding of the processes involved in new product design/development, cost analysis and product marketing.
