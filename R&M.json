@@ -2,6 +2,7 @@
  "fullTimeCourses": [
   {
    "name": "Diploma in Robotics & Mechatronics",
+   "about the course": "About the Course Do you love robots? Enjoy putting things together by hand? If your answer is yes, then you should take up our Diploma in Robotics & Mechatronics course, which combines mechanical, electronics and computing engineering.\n\nLearn how to build your own robots and gadgets as you pick up the basics of engineering and programming. Plus, you can choose to specialise in areas such as automation and robotics, wafer fabrication, aerospace or biomedical engineering. This diploma is for you if\u2026 You are fascinated by intelligent robots and are keen to integrate technologies to create high-tech devices.",
    "years": [
     {
      "year": "Year 1",
@@ -65,18 +66,25 @@
    ]
   }
  ],
- "careerProspects": "Career Prospects\n\nThe training of the Robotics & Mechatronics\u00a0course obtained from the multi-disciplinary nature will add versatility to the graduates' capabilities. They will be able to adapt flexibly to a wide range of industries, and make contributions in developing new technologies and pioneering new approaches in production.\nEngineering graduates from NYP will also be able to upgrade their knowledge and skills by pursuing their studies in local or overseas universities.",
- "furtherStudies": "Further Studies\n\nNYP\u2019s Diploma in Robotics & Mechatronics also opens doors for you to further your education in many local and overseas universities. Our graduates have pursued degrees at:\n\nNanyang Technological University\nBachelor of Mechanical Engineering\nBachelor of Electrical & Electronic Engineering\nBachelor of Materials Engineering\n\n\nNational University of Singapore\nBachelor of Engineering (Electrical Engineering)\nBachelor of Engineering (Computer Engineering)\nBachelor of Computing\n\n\nSingapore Institute of Technology\nBachelor of Eng (Hons) Mechatronics\nBachelor of Eng (Hons) Mechanical Design and Manufacturing Engineering\nBachelor of Hotel Administration",
- "contactUs": {
-  "courseManager": {
-   "name": "Manager Name",
-   "telephoneNumber": "Telephone Number",
-   "email": "Email"
+ "career Prospects": "Career Prospects\n\nThe training of the Robotics & Mechatronics\u00a0course obtained from the multi-disciplinary nature will add versatility to the graduates' capabilities. They will be able to adapt flexibly to a wide range of industries, and make contributions in developing new technologies and pioneering new approaches in production.\nEngineering graduates from NYP will also be able to upgrade their knowledge and skills by pursuing their studies in local or overseas universities.",
+ "further Studies": "Further Studies\n\nNYP\u2019s Diploma in Robotics & Mechatronics also opens doors for you to further your education in many local and overseas universities. Our graduates have pursued degrees at:\n\nNanyang Technological University\nBachelor of Mechanical Engineering\nBachelor of Electrical & Electronic Engineering\nBachelor of Materials Engineering\n\n\nNational University of Singapore\nBachelor of Engineering (Electrical Engineering)\nBachelor of Engineering (Computer Engineering)\nBachelor of Computing\n\n\nSingapore Institute of Technology\nBachelor of Eng (Hons) Mechatronics\nBachelor of Eng (Hons) Mechanical Design and Manufacturing Engineering\nBachelor of Hotel Administration",
+ "contact Us": {
+  "course Manager": {
+   "name": "Mr David Poh",
+   "telephone Number": "(65) 6550 0893",
+   "email": "David_Poh@nyp.edu.sg"
   },
-  "courseCoordinator": {
-   "name": "Coordinator Name",
-   "telephoneNumber": "Telephone Number",
-   "email": "Email"
-  }
+  "course Coordinator": [
+   {
+    "name": "Mr Chor Khee San",
+    "telephone Number": "(65) 6550 0927",
+    "email": "CHOR_Khee_San@nyp.edu.sg"
+   },
+   {
+    "name": "Mr Lee Kim Cheng",
+    "telephone Number": "(65) 6550 0556",
+    "email": "lee_kim_cheng@nyp.edu.sg"
+   }
+  ]
  }
 }
