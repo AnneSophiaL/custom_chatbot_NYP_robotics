@@ -57,3 +57,4 @@ def clean_json_data(input_file, output_file):
 input_file = 'D:\\ESIEE\\VOYAGE SINGAP 2023\\project_custom_chatbot_nyp\\EWB.json'
 output_file = 'D:\\ESIEE\\VOYAGE SINGAP 2023\\project_custom_chatbot_nyp\\EWB_cleaned.json'
 clean_json_data(input_file, output_file)
+

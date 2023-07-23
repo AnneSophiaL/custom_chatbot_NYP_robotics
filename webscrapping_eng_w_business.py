@@ -109,14 +109,11 @@ def split_title_description(df_year):
 
 ###### Year 1
 # Separate info into 3 DataFrames : Title, Hours, Desccription
-title_tab = split_title_description(df_year_1.iloc[:,0])[0]
-hours_tab = split_title_description(df_year_1.iloc[:,0])[1]
-description_tab = split_title_description(df_year_1.iloc[:,0])[2]
-description_tab = concat_lines(5,6,description_tab) # append the note that was below the description
-description_tab = concat_lines(len(description_tab) - 2, len(description_tab), description_tab)
-title_year_1 = pd.DataFrame(title_tab, columns=['title']).to_string(index=False)
-hours_year_1 = pd.DataFrame(hours_tab, columns=['hours']).to_string(index=False)
-description_year_1 = pd.DataFrame(description_tab, columns=['description']).to_string(index=False)
+title_tab_1 = split_title_description(df_year_1.iloc[:,0])[0]
+hours_tab_1 = split_title_description(df_year_1.iloc[:,0])[1]
+description_tab_1 = split_title_description(df_year_1.iloc[:,0])[2]
+description_tab_1 = concat_lines(5,6,description_tab_1) # append the note that was below the description
+description_tab_1 = concat_lines(len(description_tab_1) - 2, len(description_tab_1), description_tab_1)
 
 ###### Year 2
 # Separate info into 3 DataFrames : Title, Hours, Desccription
@@ -124,9 +121,6 @@ title_tab_2 = split_title_description(df_year_2.iloc[:,0])[0]
 hours_tab_2 = split_title_description(df_year_2.iloc[:,0])[1]
 description_tab_2 = split_title_description(df_year_2.iloc[:,0])[2]
 description_tab_2 = concat_lines(len(description_tab_2) - 2, len(description_tab_2), description_tab_2)
-title_year_2 = pd.DataFrame(title_tab_2, columns=['title']).to_string(index=False)
-hours_year_2 = pd.DataFrame(hours_tab_2, columns=['hours']).to_string(index=False)
-description_year_2 = pd.DataFrame(description_tab_2, columns=['description']).to_string(index=False)
 
 ###### Year 3
 # Separate Core modules and Elective modules
@@ -140,16 +134,10 @@ elective_modules = df_year_3[indexes_elective_modules[index]:]
 title_tab_3_CM = split_title_description(core_modules.iloc[1:,0])[0]
 hours_tab_3_CM = split_title_description(core_modules.iloc[1:,0])[1]
 description_tab_3_CM = split_title_description(core_modules.iloc[1:,0])[2]
-title_year_3_CM = pd.DataFrame(title_tab_3_CM, columns=['title']).to_string(index=False)
-hours_year_3_CM = pd.DataFrame(hours_tab_3_CM, columns=['hours']).to_string(index=False)
-description_year_3_CM = pd.DataFrame(description_tab_3_CM, columns=['description']).to_string(index=False)
 
 title_tab_3_EM = split_title_description(elective_modules.iloc[1:,0])[0]
 hours_tab_3_EM = split_title_description(elective_modules.iloc[1:,0])[1]
 description_tab_3_EM = split_title_description(elective_modules.iloc[1:,0])[2]
-title_year_3_EM = pd.DataFrame(title_tab_3_EM, columns=['title']).to_string(index=False)
-hours_year_3_EM = pd.DataFrame(hours_tab_3_EM, columns=['hours']).to_string(index=False)
-description_year_3_EM = pd.DataFrame(description_tab_3_EM, columns=['description']).to_string(index=False)
 
 # -------------------------------------------------------------------
 
@@ -157,9 +145,6 @@ description_year_3_EM = pd.DataFrame(description_tab_3_EM, columns=['description
 categorylist = soup.find(class_="categorylist parbase section")
 career_prospects = categorylist.find_all(class_="list-content category-content")
 career_prospects_stripped = [link.text.strip() for link in career_prospects]
-# for description_career_prospects in career_prospects_stripped:
-#      print(description_career_prospects)
-# print(career_prospects_stripped[0]) # 0 : career prospects, 1 : further studies
 description_career_prospects = career_prospects_stripped[0]
 description_further_studies = career_prospects_stripped[1]
 description_career_prospects =''.join(description_career_prospects)
@@ -203,9 +188,9 @@ for year in year_list:
             "year": year,
             "core modules": [
                 {
-                    "title": globals()[f'title_year_{year[-1]}'],
-                    "hours": globals()[f'hours_year_{year[-1]}'],
-                    "description": globals()[f'description_year_{year[-1]}']
+                    "title": globals()[f'title_tab_{year[-1]}'],
+                    "hours": globals()[f'hours_tab_{year[-1]}'],
+                    "description": globals()[f'description_tab_{year[-1]}']
                 }
             ]
         }
@@ -217,16 +202,16 @@ for year in year_list:
             {
                 "core modules": [
                     {
-                        "title": title_year_3_CM,
-                        "hours": hours_year_3_CM,
-                        "description": description_year_3_CM
+                        "title": title_tab_3_CM,
+                        "hours": hours_tab_3_CM,
+                        "description": description_tab_3_CM
                     }
                 ],
                 "elective modules": [
                     {
-                        "title": title_year_3_EM,
-                        "hours": hours_year_3_EM,
-                        "description": description_year_3_EM
+                        "title": title_tab_3_EM,
+                        "hours": hours_tab_3_EM,
+                        "description": description_tab_3_EM
                     }
                 ]
             }
@@ -241,5 +226,3 @@ with open('EWB.json', 'w') as json_file:
 # if we want in jsonl file:
 # with jsonlines.open('EWB.jsonl', 'w') as json_file:
 #     json_file.write(data)
-
-driver.quit()

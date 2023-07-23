@@ -1,0 +1,4 @@
+2023
+cutoff points for:
+C87	Robotics & Mechatronics	        18
+C41	Engineering wih Business	15

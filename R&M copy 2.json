@@ -1,0 +1,63 @@
+{
+ "fullTimeCourses": [
+  {
+   "name": "Diploma in Robotics & Mechatronics",
+   "about the course": "About the Course Do you love robots? Enjoy putting things together by hand? If your answer is yes, then you should take up our Diploma in Robotics & Mechatronics course, which combines mechanical, electronics and computing engineering.\n\nLearn how to build your own robots and gadgets as you pick up the basics of engineering and programming. Plus, you can choose to specialise in areas such as automation and robotics, wafer fabrication, aerospace or biomedical engineering. This diploma is for you if\u2026 You are fascinated by intelligent robots and are keen to integrate technologies to create high-tech devices.",
+   "years":
+    {
+     "year": "Year 2",
+     "core modules": [
+      {
+       "title": [
+        "AI Applications",
+        "Analogue & Digital Electronics",
+        "Automatic Control",
+        "Device Interfacing & Programming",
+        "Differential Equations & Series",
+        "Mechanical Design",
+        "Microcontroller Applications",
+        "Probability & Statistics",
+        "Quality Assurance",
+        "Robotic Systems & Peripherals",
+        "Semestral Projects",
+        "Semestral Project 3",
+        "Semestral Project 4",
+        "General Studies"
+       ],
+       "hours": [
+        "30 hours",
+        "60 hours",
+        "60 hours",
+        "60 hours",
+        "60 hrs",
+        "60 hours",
+        "60 hours",
+        "60 hrs",
+        "60 hours",
+        "60 hours",
+        "",
+        "30 hours",
+        "60 hours"
+       ],
+       "description": [
+        "AI is pervasive in modern technology enabling new applications and features. Mechatronics systems and robotics too greatly benefit from AI. Some examples include improved human machine interaction, navigation, and object identification & manipulation. Learners will gain an understanding of basic concepts of Artificial Intelligence, different types of machine learning and deep learning fundamentals. Topics covered include data manipulation, search, regression, MLP, CNN and reinforcement learning. Learners will further apply these concepts to solve problems.",
+        "This module covers the structures and characteristics of various electronic devices such as rectifier diodes, special-purpose diodes, and bipolar junction transistors.\u00a0\ufeffLearners will learn the basic operating principles of these electronics devices and where they are commonly used.",
+        "This module aims to equip learners with knowledge on pneumatics, electrical control devices, sensors, I/O interfacing and programmable logic controller (PLC), GRAFCET and logic program development. The module introduces the fundamental concepts of automatic control system, the methodology of implementing combinational and sequential logic control. Learners will acquire skills in design, development and application of ladder logic program, GRAFCET and function blocks which are widely used in the industry to control the automation equipment or system.",
+        "This module introduces students to sensors and actuators, which are commonly used in mechatronic systems, and the interfacing techniques used for connecting them to a microprocessor/computer. Hands-on applications of these devices will also be provided. Upon completion of the module, learners will be able to demonstrate the techniques and skill used to integrate devices in realising a mechatronic system.",
+        "This module provides learners with the knowledge of solving ordinary differential equations and representing periodic functions in terms of Fourier series. The learners will be able to select and use appropriate models and techniques to solve engineering related problems. The main topics covered include first-order and second-order homogenous differential equations, Fourier series and its application.",
+        "This module covers the strength of materials and its application to machine elements and engineering design. It provides learners with fundamental knowledge in engineering design. This includes stress and strain analysis, limits and fits, sizing of drive elements such as shaft, gear, flexible drive and leadscrew, and the application of bearings. Design exercises are included to provide the students with hands-on experience in design. At the end of this module, they will be able to effectively contribute to the design of mechanisms.",
+        "This module introduces the application design and development process for an embedded microcontroller system. Learners will learn to develop microcontroller application programmes. Concepts covered in microcontroller programming are I/O programming, peripherals programming and interrupt handlings. Case studies will be used to illustrate the fundamental building blocks of a microcontroller system and how they are inter-related. Upon completion of this module, students will be able to demonstrate the use of various basic programming skills and knowledge of an embedded microcontroller system.",
+        "This module provides learners with the essential concepts of probability and statistics. The learners will be able to apply probability theory and statistics to analyse real life problems. The topics covered include the probability concepts, probability distributions (Binomial, Poisson and Normal), sampling distributions, estimating and testing of population mean, linear correlation and regression.",
+        "This module aims to introduce the fundamentals of quality assurance concepts and systems. It provides learners an understanding of quality system in the manufacturing environment. It encompasses sampling plans and control charts for monitoring of batch production. In addition, the module also provides learners with fundamental concepts in dimensional measurement. They will learn about some of the specialised instruments and techniques through hands-on practice. By the end of the module, learners will gain a firm understanding of good measurement practices.",
+        "This module is designed to provide learners with a sound knowledge of robotics technology. The module covers robot classification and anatomy, robot kinematics, control concept, robotic communication and programming, system peripherals, machine vision system and robotic safety. Upon completion of this module, learners will gain a basic understanding of the key aspects of robotics.",
+        "",
+        "This module aims to develop learners\u2019 innovative and enterprising mindset by providing them with experiences in self-initiated learning in innovation and enterprise. Learners will learn to recognise and relate the importance of innovation and enterprise through studying real-world examples around them, as well as a series of experiential exploration and research into varied technologies, products and industries.",
+        "Mechatronics systems are crucial to modern products and devices that have a specific purpose. Robots, automated production systems, consumer electronics and household appliances are examples of such systems. In this module, learners will interface various input and output devices to a programmable controller through a series of practical exercises. They will also acquire knowledge of wireless and Internet of Things (IoT) technology to link the controller to a cloud application. This will enable remote sensing, data aggregation, analysis, and control. In addition, learners will be able to integrate the components to design, develop and troubleshoot an IoT enabled robotics and mechatronics system according to a set of requirements.",
+        "To provide you an all-rounded education, NYP offers General Studies Modules (GSMs). So besides taking modules related directly to your chosen diploma course, you will get exposed to areas beyond your usual field of study. Through a combination of prescribed and elective inter-disciplinary GSMs, you will gain interesting, practical knowledge that can be beneficial to you as you prepare for the world of work and life after graduation. To learn more about the GSMs offered, click\u00a0here"
+       ]
+      }
+     ]
+    }
+  }
+ ]
+}
