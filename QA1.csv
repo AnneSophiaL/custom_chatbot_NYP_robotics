@@ -1,28 +1,58 @@
-"What is the main focus of the ""Diploma in Robotics & Mechatronics"" course?";The course focuses on combining mechanical, electronics, and computing engineering. It aims to equip students with the knowledge and skills to build their own robots and gadgets while picking up the basics of engineering and programming.
-"What specialization areas are offered in the ""Diploma in Robotics & Mechatronics"" course?";The course offers specialization areas such as automation and robotics, wafer fabrication, aerospace, or biomedical engineering.
-"What topics are covered in the ""Algebra"" module? ";"The ""Algebra"" module covers mathematical functions like polynomials, exponential, logarithms, step functions, and trigonometry, complex numbers, determinants, matrices, and vectors."
-"What skills will I develop in the ""Effective Communication Skills"" module? ";In this module, you'll learn to communicate effectively in different settings and on different collaborative platforms. This includes delivering various types of presentations, handling questions, and incorporating verbal and non-verbal elements when speaking.
-"What knowledge will I gain from the ""Electrical Principles"" module? ";"The ""Electrical Principles"" module covers electrical fundamentals and their applications in electrical and electronic circuits. This includes understanding the principles of electricity, power sources, and resistive, capacitive, and inductive circuits."
-"What does the ""Engineering Drawing & Modelling"" module entail? ";This module covers the knowledge and skills to model engineering parts and interpret drawings that are derived from 3D models. This includes orthographic projection, sectional views, assembly drawing, geometric dimensioning, and tolerancing.
-"What can I expect to learn from the ""Fundamentals of Innovation and Enterprise"" module? ";In this module, you'll learn to develop innovative and enterprising skills while developing creative and technically robust solutions to real-world challenges. It helps in understanding user-centric approaches and design processes.
-"What topics does the ""Fundamentals of Mechanics"" module cover? ";This module covers Newton laws, statics of rigid bodies, moment of inertia, and bending moments. It also includes the fundamentals in dynamics that include kinematics and kinetics of particles.
-"What's the purpose of the ""Introduction to Engineering"" module? ";This module introduces different engineering disciplines with a focus on the application of relevant core engineering disciplines. It includes the practice of engineering through the process of conceiving, designing, and implementing solutions to engineering problems.
-"What does the ""Materials Technology"" module cover? ";"The ""Materials Technology"" module covers important properties and applications of engineering materials, including ferrous and non-ferrous metals, polymers, composites, and ceramics. It also includes exposure to various material properties tests and characterization, material processing methods, and different material failure modes."
-"What type of programming will I learn in the ""Programming"" module? ";The module introduces software development methodology, problem-analysis, problem-solving techniques, and essential programming skills. You will learn to create flowcharts, develop algorithms, write structured programs, test, and debug programs.
-"What concepts will be introduced in the ""Thermofluids"" module? ";This module introduces the concepts of heat, fundamentals of thermodynamics, and fluid mechanics. It covers temperature, heat capacities, latent heat, heat transfer and the ideal gas law, first laws of thermodynamics, the properties of fluids, the concepts and basic equations of fluid statics, and fluid flow.
-"What are ""Workplace Digital Skills""? ";This module covers using word processing software to create, modify, and style documents/reports effectively and efficiently. You will also use spreadsheets to manage, organise and model data as well as to perform analysis and report generation.
-"What are the ""General Studies""? ";General Studies Modules (GSMs) offer an all-rounded education, exposing you to areas beyond your usual field of study. They are inter-disciplinary and aim at providing practical knowledge beneficial for life after graduation.
-How long does each module take? ;Most modules are 60 hours long, however, some are shorter and only take 30 hours.
+{"prompt": "What is the main focus of the ""Diploma in Robotics & Mechatronics"" course?";"completion":"The course focuses on combining mechanical, electronics, and computing engineering. It aims to equip students with the knowledge and skills to build their own robots and gadgets while picking up the basics of engineering and programming.
+"}
+{"prompt":"What specialization areas are offered in the ""Diploma in Robotics & Mechatronics"" course?";"completion":"The course offers specialization areas such as automation and robotics, wafer fabrication, aerospace, or biomedical engineering.
+"}
+{"prompt":"What topics are covered in the ""Algebra"" module? ";"completion":"The ""Algebra"" module covers mathematical functions like polynomials, exponential, logarithms, step functions, and trigonometry, complex numbers, determinants, matrices, and vectors."
+}
+{"prompt":"What skills will I develop in the ""Effective Communication Skills"" module? ";"completion":"In this module, you'll learn to communicate effectively in different settings and on different collaborative platforms. This includes delivering various types of presentations, handling questions, and incorporating verbal and non-verbal elements when speaking.
+"}
+{"prompt":"What knowledge will I gain from the ""Electrical Principles"" module? ";"completion":"The ""Electrical Principles"" module covers electrical fundamentals and their applications in electrical and electronic circuits. This includes understanding the principles of electricity, power sources, and resistive, capacitive, and inductive circuits."
+}
+{"prompt":"What does the ""Engineering Drawing & Modelling"" module entail? ";"completion":"This module covers the knowledge and skills to model engineering parts and interpret drawings that are derived from 3D models. This includes orthographic projection, sectional views, assembly drawing, geometric dimensioning, and tolerancing.
+"}
+{"prompt":"What can I expect to learn from the ""Fundamentals of Innovation and Enterprise"" module? ";"completion":"In this module, you'll learn to develop innovative and enterprising skills while developing creative and technically robust solutions to real-world challenges. It helps in understanding user-centric approaches and design processes.
+"}
+{"prompt":"What topics does the ""Fundamentals of Mechanics"" module cover? ";"completion":"This module covers Newton laws, statics of rigid bodies, moment of inertia, and bending moments. It also includes the fundamentals in dynamics that include kinematics and kinetics of particles.
+"}
+{"prompt":"What's the purpose of the ""Introduction to Engineering"" module? ";"completion":"This module introduces different engineering disciplines with a focus on the application of relevant core engineering disciplines. It includes the practice of engineering through the process of conceiving, designing, and implementing solutions to engineering problems.
+"}
+{"prompt":"What does the ""Materials Technology"" module cover? ";"completion":"The ""Materials Technology"" module covers important properties and applications of engineering materials, including ferrous and non-ferrous metals, polymers, composites, and ceramics. It also includes exposure to various material properties tests and characterization, material processing methods, and different material failure modes."
+}
+{"prompt":"What type of programming will I learn in the ""Programming"" module? ";"completion":"The module introduces software development methodology, problem-analysis, problem-solving techniques, and essential programming skills. You will learn to create flowcharts, develop algorithms, write structured programs, test, and debug programs.
+"}
+{"prompt":"What concepts will be introduced in the ""Thermofluids"" module? ";"completion":"This module introduces the concepts of heat, fundamentals of thermodynamics, and fluid mechanics. It covers temperature, heat capacities, latent heat, heat transfer and the ideal gas law, first laws of thermodynamics, the properties of fluids, the concepts and basic equations of fluid statics, and fluid flow.
+"}
+{"prompt":"What are ""Workplace Digital Skills""? ";"completion":"This module covers using word processing software to create, modify, and style documents/reports effectively and efficiently. You will also use spreadsheets to manage, organise and model data as well as to perform analysis and report generation.
+"}
+{"prompt":"What are the ""General Studies""? ";"completion":"General Studies Modules (GSMs) offer an all-rounded education, exposing you to areas beyond your usual field of study. They are inter-disciplinary and aim at providing practical knowledge beneficial for life after graduation.
+"}
+{"prompt":How long does each module take? ;"completion":"Most modules are 60 hours long, however, some are shorter and only take 30 hours."
+}
+{"prompt":Who are the course coordinators for the Diploma of Robotics and Mechatronics?;"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng.
+"}
 ;
-"What are the core modules in the ""Automation & Robotics Technology"" program in year 3?";"The core modules include ""Automation Systems Design"", ""Communication & Personal Branding"", ""Motion Control & Drives"", ""Semestral Project"", and ""General Studies""."
-"How many hours do I need to invest for the ""Automation Systems Design"" module?";"The ""Automation Systems Design"" module requires 60 hours."
-"What are the elective modules in the ""Automation & Robotics Technology"" program in year 3?";"The elective modules include ""Communication & Networking"", ""Intelligent Systems"", ""Mechanisms Design & Simulation"", ""Systems & Control"", and ""Wafer Fabrication Processes""."
-"What can I expect to learn from the ""Systems & Control"" module?";This module provides learners with the fundamental knowledge of control systems, including the characteristics and modeling of physical systems, basis of frequency and time domain analysis, and understanding of feedback control systems.
-"What are the core modules in the ""Wafer Fabrication Technology"" program in year 3?";"The core modules include ""Communication & Personal Branding"", ""Semestral Project"", ""Semiconductor Technology"", ""Wafer Fabrication Processes"", and ""General Studies""."
-"What are the elective modules in the ""Wafer Fabrication Technology"" program in year 3?";"The elective modules include ""Communication & Networking"", ""Electronic Materials"", ""Nanomaterials Science"", ""Systems & Control"", and ""Vacuum Technology & RF Plasma""."
-What are the career prospects after completing the Robotics & Mechatronics course?;Graduates will be versatile and adaptable to a wide range of industries and capable of developing new technologies and pioneering new production approaches.
-What opportunities are available for further studies after completing this diploma?;Graduates can pursue degrees at local and overseas universities, such as Nanyang Technological University, National University of Singapore, and Singapore Institute of Technology.
-Who is the course manager for this program?;The course manager is Mr David Poh.
-How can I contact Mr David Poh?;You can reach him at (65) 6550 0893 or email him at David_Poh@nyp.edu.sg.
-Who are the course coordinators for this program?;The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng.
-What are the elective programmes for the third year in robotics ?;The electives programmes are Automation  & Robotics Technology and Wafer Fabrication Technology.
+
+{"prompt":"What are the core modules in the ""Automation & Robotics Technology"" program in year 3?";"completion":"The core modules include ""Automation Systems Design"", ""Communication & Personal Branding"", ""Motion Control & Drives"", ""Semestral Project"", and ""General Studies""."
+}
+{"prompt":"How many hours do I need to invest for the ""Automation Systems Design"" module?";"completion":"The ""Automation Systems Design"" module requires 60 hours."
+}
+{"prompt":"What are the elective modules in the ""Automation & Robotics Technology"" program in year 3?";"completion":"The elective modules include ""Communication & Networking"", ""Intelligent Systems"", ""Mechanisms Design & Simulation"", ""Systems & Control"", and ""Wafer Fabrication Processes""."
+}
+{"prompt":"What can I expect to learn from the ""Systems & Control"" module?";"completion":"This module provides learners with the fundamental knowledge of control systems, including the characteristics and modeling of physical systems, basis of frequency and time domain analysis, and understanding of feedback control systems."
+}
+{"prompt":"What are the core modules in the ""Wafer Fabrication Technology"" program in year 3?";"completion":"The core modules include ""Communication & Personal Branding"", ""Semestral Project"", ""Semiconductor Technology"", ""Wafer Fabrication Processes"", and ""General Studies""."
+}
+{"prompt":"What are the elective modules in the ""Wafer Fabrication Technology"" program in year 3?";"completion":"The elective modules include ""Communication & Networking"", ""Electronic Materials"", ""Nanomaterials Science"", ""Systems & Control"", and ""Vacuum Technology & RF Plasma""."
+}
+{"prompt":What are the career prospects after completing the Robotics & Mechatronics course?;"completion":"Graduates will be versatile and adaptable to a wide range of industries and capable of developing new technologies and pioneering new production approaches."
+}
+{"prompt":What opportunities are available for further studies after completing this diploma?;"completion":"Graduates can pursue degrees at local and overseas universities, such as Nanyang Technological University, National University of Singapore, and Singapore Institute of Technology."
+}
+{"prompt":Who is the course manager for this program?;"completion":"The course manager is Mr David Poh."
+}
+{"prompt":How can I contact Mr David Poh?;"completion":"You can reach him at (65) 6550 0893 or email him at David_Poh@nyp.edu.sg."
+}
+{"prompt":Who are the course coordinators for this program?;"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng."
+}
+{"prompt":"What are the elective programmes for the third year in robotics ?";"completion":"The electives programmes are Automation  & Robotics Technology and Wafer Fabrication Technology."
+}
