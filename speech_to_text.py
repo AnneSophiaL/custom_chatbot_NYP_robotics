@@ -1,17 +1,15 @@
 import speech_recognition as sr
-OPENAI_API_KEY = "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"
+
+# OPENAI_API_KEY = "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"
 def speech_to_text(timeout):
-    # Initialize recognizer class (for recognizing the speech)
+    # Initialize recognizer instance (for recognizing the speech)
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:
         audio = recognizer.listen(source, timeout= timeout)
         try:
             # Store the result in a variable
             # text = recognizer.recognize_whisper_api(audio, api_key=OPENAI_API_KEY) 
-            # text = recognizer.recognize_google(audio) 
-            text = recognizer.recognize_whisper(audio, language="english") 
-
-            # print(text)
+            text = recognizer.recognize_google(audio, language="en-US") 
             return text
         except sr.UnknownValueError:
             print("Sorry, I did not understand")
@@ -19,7 +17,8 @@ def speech_to_text(timeout):
             print("Request Failed; {0}".format(e))
     return None 
 
-speech_to_text(20)
+# print("talk")
+# print(speech_to_text(20))
 
 # real code below
 

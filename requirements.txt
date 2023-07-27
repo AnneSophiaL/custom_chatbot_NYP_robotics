@@ -1,0 +1,11 @@
+streamlit==1.24.1
+SpeechRecognition==3.10.0
+llama-index==0.6.5
+openai==0.27.8
+pyttsx3==2.90
+
+# you should maybe install these:
+# !pip install gpt-index
+# !pip install langchain
+# !pip install haystack
+# !pip install datasets

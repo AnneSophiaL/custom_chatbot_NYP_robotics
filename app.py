@@ -70,7 +70,6 @@ def main():
                 break
             if stop_listening:
                 break
-            print("123")
 
 if __name__ == "__main__":
     main()
