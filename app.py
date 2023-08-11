@@ -7,6 +7,16 @@ from speech_to_text import speech_to_text
 from text_to_speech import text_to_speech
 # from create_vector_index import createVectorIndex
 
+"""
+Main file where we can launch the streamlit webpage. 
+It contains some functions:
+ - "answerMe(prompt)", that will return the response given by the chatbot.
+ - "listen_for_trigger()", that will return the trigger phrase that has been detected, either "Hey assistant", or "Thank you".
+ - "main()", when it detects the trigger phrase thanks to the function above, it will write the question and answer, and will tell the reponse verbally.
+
+ (c) Anne-Sophia LIM, 2023
+"""
+
 os.environ["OPENAI_API_KEY"] = "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"
 openai.api_key = "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"
 

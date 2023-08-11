@@ -1,5 +1,13 @@
 import speech_recognition as sr
 
+"""
+This function converts the user's speaking to a text. The language set is English, but can be changed. 
+The code that is commented can listen 3 times to the user if it does not understand before stopping the listening.
+I remove this part when inserting the code into the app.py file because it creates conflicts with the front end but still can be used to do some tests. 
+
+(c) Anne-Sophia LIM, 2023
+"""
+
 # OPENAI_API_KEY = "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"
 def speech_to_text(timeout):
     # Initialize recognizer instance (for recognizing the speech)
@@ -17,8 +25,6 @@ def speech_to_text(timeout):
             print("Request Failed; {0}".format(e))
     return None 
 
-# print("talk")
-# print(speech_to_text(20))
 
 # real code below
 

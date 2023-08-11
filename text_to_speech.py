@@ -1,5 +1,11 @@
 import pyttsx3
 
+"""
+This function is used to convert the text response into speech by the chatbot. 
+
+(c) Anne-Sophia LIM, 2023
+"""
+
 def text_to_speech(mytext):
     engine = pyttsx3.init()
 

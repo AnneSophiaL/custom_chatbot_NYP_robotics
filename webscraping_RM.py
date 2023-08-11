@@ -5,6 +5,12 @@ import pandas as pd
 import jsonlines
 import requests
 
+"""
+This file creates the JSON file of the website "https://www.nyp.edu.sg/schools/seg/full-time-courses/robotics-and-mechatronics.html".
+
+(c) Anne-Sophia LIM, 2023
+"""
+
 url = "https://www.nyp.edu.sg/schools/seg/full-time-courses/robotics-and-mechatronics.html"
 response = requests.get(url)
 soup = BeautifulSoup(response.content, "html.parser")

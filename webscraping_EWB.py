@@ -5,6 +5,12 @@ import pandas as pd
 import jsonlines
 import requests 
 
+"""
+This file creates the JSON file of the website "https://www.nyp.edu.sg/schools/seg/full-time-courses/engineering-with-business.html".
+
+(c) Anne-Sophia LIM, 2023
+"""
+
 url = "https://www.nyp.edu.sg/schools/seg/full-time-courses/engineering-with-business.html"
 
 response = requests.get(url)

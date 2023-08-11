@@ -3,6 +3,13 @@ from llama_index import LLMPredictor, PromptHelper, SimpleDirectoryReader, GPTVe
 import os 
 import openai
 
+"""
+This function creates embeddings, with the indexes of the vectors, it helps the model to have a better understanding of the words and sentences.
+It will store them into a folder named "vectorIndex".
+
+(c) Anne-Sophia LIM, 2023
+"""
+
 os.environ["OPENAI_API_KEY"] = "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"
 openai.api_key = "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"
 
