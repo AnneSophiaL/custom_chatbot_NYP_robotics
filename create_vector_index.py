@@ -20,10 +20,11 @@ def createVectorIndex():
         max_tokens=tokens
     ))
 
+    # load documents
     documents = SimpleDirectoryReader('D:\ESIEE\VOYAGE SINGAP 2023\project_custom_chatbot_nyp\my_data').load_data()
     vectorIndex = GPTVectorStoreIndex.from_documents(documents=documents, llm_predictors=llmPredictor, prompt_helper=prompt_helper)
 
-    # save index to the folder: "vector_index"
+    # save index to the folder: "vectorIndex"
     vectorIndex.set_index_id("vector_index")
     vectorIndex.storage_context.persist('vectorIndex')
 

@@ -6,52 +6,12 @@ import openai
 import time
 from retrying import RetryError, retry
 from datasets import load_dataset, load_from_disk
+from 
 from llama_index import Document
 import speech_recognition as sr
-# from googletrans import Translator, LANGUAGES
 
 os.environ["OPENAI_API_KEY"] = "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"
 openai.api_key = "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" # key de judith
-
-# def listen_and_convert_to_text():
-#     # Initialize recognizer class (for recognizing the speech)
-#     recognizer = sr.Recognizer()
-#     # Initialize the Translator
-#     translator = Translator()
-
-#     attempts = 0
-#     while attempts < 3:
-#         # Record Audio
-#         with sr.Microphone() as source:
-#             print("Quelle est votre question? (dites 'stop' pour arrêter)")
-#             # Listening to the microphone
-#             audio = recognizer.listen(source, timeout=10)
-
-#         try:
-#             # Try to recognize in French
-#             text_in_french = recognizer.recognize_google(audio, language='fr-FR')
-#             print("Vous avez dit (en français): " + text_in_french)
-#             # Translate text to English
-#             translation = translator.translate(text_in_french, src='fr', dest='en')
-#             question = translation.text
-#             print("Traduit en anglais: " + question)
-#             return question
-#         except sr.UnknownValueError:
-#             try:
-#                 # Try to recognize in English
-#                 text_in_english = recognizer.recognize_google(audio, language='en-US')
-#                 print("Vous avez dit (en anglais): " + text_in_english)
-#                 return text_in_english
-#             except sr.UnknownValueError:
-#                 attempts += 1
-#                 print("Désolé, je n'ai pas pu comprendre l'audio. Veuillez réessayer.")
-#         except sr.RequestError as e:
-#             print("Erreur de service; {0}".format(e))
-#             return None
-
-#     print("Désolé, je n'ai pas pu comprendre l'audio après 3 tentatives.")
-#     return None
-
 
 def createVectorIndex():
     max_input = 4096

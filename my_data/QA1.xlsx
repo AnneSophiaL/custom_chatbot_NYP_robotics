@@ -26,9 +26,9 @@
 "}
 {"prompt":"What are the ""General Studies""? ";"completion":"General Studies Modules (GSMs) offer an all-rounded education, exposing you to areas beyond your usual field of study. They are inter-disciplinary and aim at providing practical knowledge beneficial for life after graduation.
 "}
-{"prompt":How long does each module take? ;"completion":"Most modules are 60 hours long, however, some are shorter and only take 30 hours."
+{"prompt":"How long does each module take? ";"completion":"Most modules are 60 hours long, however, some are shorter and only take 30 hours."
 }
-{"prompt":Who are the course coordinators for the Diploma of Robotics and Mechatronics?;"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng.
+{"prompt":"Who are the course coordinators for the Diploma of Robotics and Mechatronics?";"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng.
 "}
 ;
 
@@ -44,15 +44,16 @@
 }
 {"prompt":"What are the elective modules in the ""Wafer Fabrication Technology"" program in year 3?";"completion":"The elective modules include ""Communication & Networking"", ""Electronic Materials"", ""Nanomaterials Science"", ""Systems & Control"", and ""Vacuum Technology & RF Plasma""."
 }
-{"prompt":What are the career prospects after completing the Robotics & Mechatronics course?;"completion":"Graduates will be versatile and adaptable to a wide range of industries and capable of developing new technologies and pioneering new production approaches."
+{"prompt":"What are the career prospects after completing the Robotics & Mechatronics course?";"completion":"Graduates will be versatile and adaptable to a wide range of industries and capable of developing new technologies and pioneering new production approaches."
 }
-{"prompt":What opportunities are available for further studies after completing this diploma?;"completion":"Graduates can pursue degrees at local and overseas universities, such as Nanyang Technological University, National University of Singapore, and Singapore Institute of Technology."
+{"prompt":"What opportunities are available for further studies after completing this diploma?";"completion":"Graduates can pursue degrees at local and overseas universities, such as Nanyang Technological University, National University of Singapore, and Singapore Institute of Technology."
 }
-{"prompt":Who is the course manager for this program?;"completion":"The course manager is Mr David Poh."
+{"prompt":"Who is the course manager for this program?";"completion":"The course manager is Mr David Poh."
 }
-{"prompt":How can I contact Mr David Poh?;"completion":"You can reach him at (65) 6550 0893 or email him at David_Poh@nyp.edu.sg."
+{"prompt":"How can I contact Mr David Poh?";"completion":"You can reach him at (65) 6550 0893 or email him at David_Poh@nyp.edu.sg."
 }
-{"prompt":Who are the course coordinators for this program?;"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng."
+{"prompt":"Who are the course coordinators for this program?";"completion":"The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng."
 }
 {"prompt":"What are the elective programmes for the third year in robotics ?";"completion":"The electives programmes are Automation  & Robotics Technology and Wafer Fabrication Technology."
 }
+{"prompt":"What are the modules for the second year in robotics and mechatronics?";"completion":"The modules are AI Applications, Analogue & Digital Electronics, Automatic Control, Device Interfacing & Programming, Differential Equations & Series, Mechanical Design, Microcontroller Applications, Probability & Statistics, Quality Assurance, Robotic Systems & Peripherals, Semestral Projects, General Studies"}

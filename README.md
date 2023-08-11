@@ -11,3 +11,7 @@ The "webscraping_EWB.py" and "webscraping_RM.py" files are used to collect the d
 - https://www.nyp.edu.sg/schools/seg/full-time-courses/engineering-with-business.html 
 
 The folder "my_data" contains all of my dataset, the files inside are text files, xlsx files and json files. For now, any other types of file are supported but csv files. 
+
+The "app.py" file is the main python file that should be run using the command "streamlit run app.py"
+
+There is a "questions_chatbot.txt" file that contains questions for testing the chatbot, it is composed of 20 questions but onthers can be added. 

@@ -1,0 +1,72 @@
+Query: What is the cut off point for engineering with business?
+Response: 
+The cut off point for engineering with business is 15.
+Query: Who can I contact to have more information about engineering with business course?
+Response: 
+You can contact the Course Manager, Dr. Ang Wei Sin, for more information about the Diploma in Engineering with Business course. His telephone number is (65) 6550 0954 and his email is ang_wei_sin@nyp.edu.sg. You can also contact the Course Coordinator, Mr. Zulkifli Mohd Din, at 6550-0944 or zulkifli_mohddin@nyp.edu.sg.
+Query: what are the career prospects after graduating from engineering with business?
+Response: 
+Career prospects after graduating from engineering with business include business planning and development, project planning and management, product design and development, logistics and supply chain management, operations management, research and development, and business analytics. Additionally, graduates may stand out from the crowd by becoming a technopreneur or intrapreneur.
+Query: what can you tell me about engineering with business?
+Response: 
+Engineering with Business is a diploma course offered by NYP that combines engineering and business concepts. It covers a wide range of subjects, including engineering technology, business analytics and planning, project and operations management, and fundamentals of innovation and enterprise. Learners will gain knowledge and skills in algebra, calculus, electrical principles, engineering drawing and modelling, materials technology, programming, thermofluids, workplace digital skills, and fundamentals of mechanics. They will also learn effective communication skills, and be able to produce clearly written and well-structured reports and proposals. Upon completion of the course, graduates can pursue further studies with good advanced standing in relevant degree courses at reputable universities in Singapore, the UK, Australia, the US, Canada and New Zealand.
++++Query: what are the core modules for year 3 in engineering with business?
+Response: 
+The core modules for Year 3 in Engineering with Business are: Automation Systems Design, Communication & Personal Branding, Motion Control & Drives, Semestral Project, and General Studies.
+Query: How will the "Engineering Exploration Project" module benefit me as a learner?
+Response: 
+The Engineering Exploration Project module will benefit learners by providing them with an opportunity to engage in a systematic process of design thinking. Through this process, they will acquire innovative and enterprising skills to develop creative and technically robust solutions to real-world challenges. Additionally, learners will hone their creative thinking and problem-solving skills, build synergistic teamwork and enhance their communication skills.
+Query: Could you provide more details about the "Materials Technology" module?
+Response: 
+The Materials Technology module introduces learners to the fundamentals of materials science and engineering. Learners will learn about the structure and properties of materials, material selection criteria, and the processing and testing of materials. Learners are also exposed to various material properties tests and characterization, material processing methods and different material failure modes. This module serves as a foundation to enable learners to select appropriate materials for specific engineering applications.
+Query: What are the key topics covered in the "Workplace Digital Skills" module?
+Response: 
+The key topics covered in the "Workplace Digital Skills" module are word processing, spreadsheets, presentation software, and customised, dynamic and multimedia-style presentations.
+++Query: Can you explain what is the course "business management" about?
+Response: 
+Business Management is a course that covers the fundamentals of business management, including topics such as business planning and development, project planning and management, product design and development, logistics and supply chain management, operations management, research and development, and business analytics. It also covers the importance of design for environment and sustainability, design for manufacturability, and design for assembly. The course also provides learners with the opportunity to become a technopreneur or intrapreneur.
+Query: What are the elective modules of "Automation & Robotics Technology" in robotics and mechatronics?
+Response: 
+The elective modules of "Automation & Robotics Technology" in robotics and mechatronics include "Communication & Networking", "Intelligent Systems", "Mechanisms Design & Simulation", "Systems & Control", and "Wafer Fabrication Processes".
++++Query: what are the courses for the second year in robotics and mechatronics?
+Response: 
+The courses for the second year in Robotics & Mechatronics are: Algebra, Calculus, Effective Communication Skills, Electrical Principles, Engineering Drawing & Modelling, Engineering Exploration Project, Fundamentals of Innovation and Enterprise, Fundamentals of Mechanics, Introduction to Engineering, Materials Technology, Programming, Thermofluids, Workplace Digital Skills, and General Studies.
++++Query: what are the courses provided in year 2 in robotics?
+Response: 
+The courses provided in year 2 in robotics include ""Robotics & Mechatronics"", ""Automation & Robotics Technology"", ""Wafer Fabrication Technology"", ""Robotics & Automation"", ""Robotics & Automation Design"", ""Robotics & Automation Programming"", ""Robotics & Automation Control"", ""Robotics & Automation Systems"", ""Robotics & Automation Applications"", and ""Robotics & Automation Project"".
+Query: what are the courses provided in year 3 for the elective programme wafer fabrication technology?
+Response: 
+The elective modules in the Wafer Fabrication Technology program in year 3 include Communication & Networking, Electronic Materials, Nanomaterials Science, Systems & Control, and Vacuum Technology & RF Plasma.
+Query: What is the minimum cut-off point or ELR2B2 score required for admission to the Diploma in Robotics and Mechatronics at NYP?
+Response: 
+The minimum cut-off point or ELR2B2 score required for admission to the Diploma in Robotics and Mechatronics at NYP is 18.
+Query: Can you provide more details about the career prospects after completing the Diploma in Robotics & Mechatronics at NYP?
+Response: 
+Yes, graduates of the Diploma in Robotics & Mechatronics at NYP will be well-equipped with the knowledge and skills to pursue a career in the engineering and technology industry. They will be able to apply their knowledge and skills in areas such as automation, robotics, mechatronics, and other related fields. Graduates will be versatile and adaptable to a wide range of industries and capable of developing new technologies and pioneering new production approaches. They can also pursue careers in management, operations management, research and development, business analytics, and even become technopreneurs or intrapreneurs.
+Query: How does the diploma program facilitate further studies at local and overseas universities?
+Response: 
+The diploma program facilitates further studies at local and overseas universities by providing graduates with the opportunity to apply for engineering or business degree programmes with the possibility of direct admission to the second year of study in many local and overseas universities. Additionally, the diploma program provides graduates with good advanced standing in relevant degree courses at reputable universities in Singapore, the UK, Australia, the US, Canada and New Zealand.
+Query: Can you provide some examples of universities and the specific engineering or related programs where NYP graduates have pursued their degrees?
+Response: 
+Yes, NYP graduates have pursued degrees at the following universities and programs: 
+
+Nanyang Technological University: Mechanical Engineering, Aerospace Engineering, Civil Engineering, Materials Engineering, Electrical and Electronic Engineering, Environmental Engineering, Bioengineering, Maritime Studies, Mathematical Sciences and Finance, Renaissance Engineering, Physics, Science, Economics, Business, Accountancy and Business, Financial Engineering.
+
+National University of Singapore: Science (Physics), Electrical Engineering, Mechanical Engineering, Architecture, Arts & Social Sciences, Business Administration, Business Administration (Accountancy), Business Administration and Communications & New Media, Computer Science Courses, Information Security, Information Systems, Industrial Design, Project & Facilities Management.
+
+Singapore Management University: Business Management, Information Systems, Accountancy.
+
+Singapore University of Technology and Design: Architecture and Sustainable Design, Engineering Product Development, Engineering Systems and Design, Information Systems Technology and Design.
+
+Singapore Institute of Technology: All engineering and business courses.
+
+University of South Australia: Business degree program in 1.5 years.
+Query: How can I get in touch with the course manager and coordinators for the Diploma in Robotics & Mechatronics?
+Response: 
+You can get in touch with the course manager, Mr David Poh, by calling (65) 6550 0893 or emailing him at David_Poh@nyp.edu.sg. The course coordinators are Mr Chor Khee San and Mr Lee Kim Cheng.
+Query: What is the ELR2B2 score, and how does it relate to the cut-off point for the Robotics and Mechatronics course?
+Response: 
+The ELR2B2 score is the score that is used to determine the cut-off point for the Robotics and Mechatronics course. The ELR2B2 score ranges from 9 to 18, and the cut-off point for the Robotics and Mechatronics course is 18. This means that applicants must have an ELR2B2 score of 18 or higher in order to be eligible for the course.
+Query: What is the range of ELR2B2 scores or cut-off points for applicants who are interested in the Diploma in Robotics and Mechatronics?
+Response: 
+9 to 18
